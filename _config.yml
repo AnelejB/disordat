@@ -24,8 +24,19 @@ description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my awesome website
 baseurl: "/disordat"
 url: "http://jelena.xyz"
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: anelejb
+github_username:  anelejb
+
+#Fields minima uses, but are not defaultet
+author: Anelej
+
+
+#New fields not defaulted by jekyll new with the minima theme
+#Add a copyright.
+copyright: "Dis or Dat"
+linkedin_username: Anelej
+youtube_username: Anelej
+title-logo: /images/title-logo.png
 
 # Build settings
 # Removed minima theme as it is now a regular theme
